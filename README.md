@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ambikaprasan
 - 👀 I’m interested in contributing in c,c++,python development
 - 🌱 I’m currently gaining knowledge on cloud technologies.
-- 💞️ I’m looking to collaborate on any system level or middleware develeopment projects.
+- 💞️ I’m looking to collaborate on any system level or middleware development projects.
 - 📫 reach me @ ambikaprasan82@gmail.com
 
 <!---
